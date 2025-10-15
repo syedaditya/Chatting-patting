@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "378850060636",
+    "project_id": "chat-koro-6dc51",
+    "storage_bucket": "chat-koro-6dc51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378850060636:android:75d014560651359eb5b999",
+        "android_client_info": {
+          "package_name": "com.example.chat_koro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378850060636-bjaen43f3t30qek79p2se9t75meond2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJluke2vC5chT_SvrAgADHYOHMkfU1SfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378850060636-bjaen43f3t30qek79p2se9t75meond2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378850060636-8l7jaivebnbbt01oeh7qmenfqvkk13sm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatKoro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
